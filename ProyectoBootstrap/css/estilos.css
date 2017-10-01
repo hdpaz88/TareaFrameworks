@@ -1,0 +1,38 @@
+body{
+  background-color: #260126;
+}
+
+header{
+  background-color: #59323C;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+nav{
+  background-color: #8c6954;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+article{
+  background-color: #f2eeb3;
+  border-radius: 10px;
+}
+
+.centrar{
+  text-align: center;
+}
+
+.margen{
+  padding-bottom: 10px;
+}
+
+.columnavacia{
+  height: 150px;
+}
+
+@media (max-width: 992px){
+  .noaparecer{
+    display: none;
+  }
+}

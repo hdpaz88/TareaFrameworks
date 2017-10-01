@@ -1,0 +1,43 @@
+body{
+  background: url(../img/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+.logo{
+  width: 200px;
+  min-width: 100px;
+}
+
+.thumbnail{
+  border: 3px solid white;
+  border-radius: 10px;
+}
+
+.thumbnail:hover{
+  border-radius: 0px;
+}
+
+.container{
+  padding: 10px;
+}
+
+.btn{
+  display: block;
+}
+
+.texto{
+  color: white;
+  text-shadow: 2px 2px black;
+  font-size: 20px;
+}
+
+.redes{
+  padding: 15px;
+}
+
+.texto2{
+  font-size: 10px;
+}
